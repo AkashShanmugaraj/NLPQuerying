@@ -1,0 +1,32 @@
+{
+	"select": {
+		"column": "age",
+		"type": "['SUM']"
+	},
+	"from": {
+		"table": "student"
+	},
+	"join": {
+	},
+	"where": {
+		"conditions": [
+			{ "column": "name",
+			  "type": "None",
+			  "operator": "=",
+			  "value": "'doe'"
+			},
+			{
+			  "operator": "OR"
+			},
+			{ "column": "age",
+			  "type": "None",
+			  "operator": ">",
+			  "value": "'25'"
+			}
+		]
+	},
+	"group_by": {
+	},
+	"select": {
+	},
+}
