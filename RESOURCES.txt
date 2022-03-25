@@ -1,0 +1,4 @@
+https://towardsdatascience.com/natural-language-to-sql-use-it-on-your-own-database-d4cd5784d081
+https://demo.allennlp.org/atis-parser
+https://stackoverflow.com/questions/54819075/what-are-some-of-the-ways-to-convert-nlp-to-sql
+https://www.youtube.com/watch?v=2MTo7r7aXm8
